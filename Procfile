@@ -1,1 +1,1 @@
-web:gunicorn travelbackendproject.wsgi
+web:gunicorn travelbackend.wsgi
